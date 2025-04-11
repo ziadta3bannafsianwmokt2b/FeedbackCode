@@ -1,5 +1,6 @@
 {
-  "prefix":"!",
+  "prefix":"!", // بريفكس البوت
   "ALLOWED_ROLES": [""], // الرولات المسموحه لعمل الامر 
-  "FEEDBACK_CHANNEL_ID":"" // اي دي روم الفيدباك
+  "FEEDBACK_CHANNEL_ID":"", // اي دي روم الفيدباك
+  "token":"" // توكن بوتك
 }
